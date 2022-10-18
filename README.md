@@ -11,7 +11,7 @@ Input sudoku or nonogram : sudoku # <- execute the program
 Start "sudoku" Program
 ------------------------------
 SUDOKU INPUT
-Row 1 : 0 4 0 0 0 0 0 0 0 # <- user’s input from keyboard
+Row 1 : 0 4 0 0 0 0 0 0 0         # <- user’s input from keyboard
 Row 2 : 0 0 1 0 3 4 6 2 0
 Row 3 : 6 0 3 0 0 0 0 7 0
 Row 4 : 0 0 0 4 8 3 5 0 7
@@ -22,7 +22,7 @@ Row 8 : 8 0 0 5 4 7 3 9 6
 Row 9 : 0 0 0 0 2 1 0 0 0
 ------------------------------
 SUDOKU OUTPUT
-Row 0 : 2 4 8 6 7 5 1 3 9 # <- output from the program
+Row 0 : 2 4 8 6 7 5 1 3 9         # <- output from the program
 Row 1 : 7 5 1 9 3 4 6 2 8
 Row 2 : 6 9 3 2 1 8 4 7 5
 Row 3 : 9 2 6 4 8 3 5 1 7
