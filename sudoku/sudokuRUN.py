@@ -1,6 +1,6 @@
 import copy
-from docs.sudokucsp import SudokuCSP
-from docs.csp import backtracking_search, mrv, unordered_domain_values, no_inference
+from sudoku.sudokucsp import SudokuCSP
+from sudoku.csp import backtracking_search, mrv, unordered_domain_values, no_inference
 
 def sudokuRUN():
 

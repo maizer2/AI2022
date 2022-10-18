@@ -2,7 +2,7 @@
 # from original import * ... original is the one of AIMA's code
 # but this class doesnt do anything different, i mean it will be the same if it
 # extends the class on csp.py or original.py since both class are almost the same
-from docs.csp import *
+from sudoku.csp import *
 
 class SudokuCSP(CSP):
 
